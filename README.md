@@ -1,2 +1,3 @@
 # CMPT-125
-c exercise
+
+C algorithms and data structures
